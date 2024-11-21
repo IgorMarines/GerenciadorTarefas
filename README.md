@@ -1,5 +1,8 @@
 # Projeto Laravel - Guia de Instalação e Uso
 
+![TaskManager](https://github.com/user-attachments/assets/4d9a9c0a-6974-4b21-a360-d9fd91a903cd)
+
+
 Este projeto utiliza o framework Laravel para o back-end e integra um front-end configurado. Este guia explica como instalar, configurar e iniciar o projeto.
 
 ## Pré-requisitos:
